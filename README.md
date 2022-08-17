@@ -19,8 +19,11 @@
 
 #### Desktop:
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ![AMD 5950X](https://img.shields.io/badge/AMD-Ryzen_9_5950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
 ![GTX 1060](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 ![GTX 2070 Super](https://img.shields.io/badge/NVIDIA-GTX2070_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
