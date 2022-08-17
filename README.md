@@ -29,10 +29,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tandrew468"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tandrew468" /></a></p>
 
-<br>
-
-<p><center><img align="center " src="https://github-readme-stats.vercel.app/api/top-langs?username=tandrew468&show_icons=true&locale=en&layout=compact" alt="tandrew468" /></center></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tandrew468&show_icons=true&locale=en" alt="tandrew468" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tandrew468&" alt="tandrew468" /></p>
 
