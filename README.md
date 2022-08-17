@@ -18,11 +18,10 @@
 - ⚡ Fun fact #2 Loves anything k-(related)
 
 #### Desktop:
-
-[![Windows 10](https://img.shields.io/badge/Windows-10-blue?labelColor=black&logo=windows)](https://www.microsoft.com/en-us/windows/)
+![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![AMD 5950X](https://img.shields.io/badge/AMD-Ryzen_9_5950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![nVidia GTX 1060](https://img.shields.io/badge/GTX-1060%20Ti-green?labelColor=black&logo=nvidia)
-![nVidia GTX 2070 Super](https://img.shields.io/badge/GTX-2070%20Ti-green?labelColor=black&logo=nvidia)
+![GTX 1060](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GTX 2070 Super](https://img.shields.io/badge/NVIDIA-GTX2070_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
 #### Laptop:
