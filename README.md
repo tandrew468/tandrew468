@@ -17,6 +17,18 @@
 
 - ⚡ Fun fact #2 Loves anything k-(related)
 
+#### Desktop:
+
+[![Windows 10](https://img.shields.io/badge/Windows-10-blue?labelColor=black&logo=windows)](https://www.microsoft.com/en-us/windows/)
+![AMD 5950X](https://img.shields.io/badge/AMD-Ryzen_9_5950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![nVidia GTX 1060](https://img.shields.io/badge/GTX-1060%20Ti-green?labelColor=black&logo=nvidia)
+![nVidia GTX 2070 Super](https://img.shields.io/badge/GTX-2070%20Ti-green?labelColor=black&logo=nvidia)
+
+
+#### Laptop:
+[![M1 Pro Max](https://img.shields.io/badge/Apple-MacBook_Pro_M1_Pro_Max-999999?style=for-the-badge&logo=apple&logoColor=white)]
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/andrewtrong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrew_trong" height="30" width="40" /></a>
