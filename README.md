@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact #1 Loves Drones
 
-- ⚡ Fun fact #2 Love anything k-(related)
+- ⚡ Fun fact #2 Loves anything k-(related)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
