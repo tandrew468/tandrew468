@@ -26,7 +26,7 @@
 
 
 #### Laptop:
-[![M1 Pro Max](https://img.shields.io/badge/Apple-MacBook_Pro_M1_Pro_Max-999999?style=for-the-badge&logo=apple&logoColor=white)]
+![M1 Pro Max](https://img.shields.io/badge/Apple-MacBook_Pro_M1_Pro_Max-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 
 <h3 align="left">Connect with me:</h3>
