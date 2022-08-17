@@ -11,17 +11,17 @@
 
 - 👨‍💻 All of my projects are available at [https://tandrew468.xyz/](https://tandrew468.xyz/)
 
-- ⚡ Fun fact #1 [Love Drones](Love Drones)
-
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **tandrew468@gmail.com**
 
-- ⚡ Fun fact #2 [Love anything k-(related)](Love anything k-(related))
+- ⚡ Fun fact #1 Loves Drones
+
+- ⚡ Fun fact #2 Love anything k-(related)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/andrew_trong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrew_trong" height="30" width="40" /></a>
+<a href="https://twitter.com/andrewtrong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrew_trong" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tandrew468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tandrew468" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tandrew468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tandrew468" height="30" width="40" /></a>
 </p>
