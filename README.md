@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tandrew468&label=Profile%20views&color=0e75b6&style=flat" alt="tandrew468" /> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 👨‍💻 I’m currently working @ **Leidos**
 
-- 👨‍💻 All of my projects are available at [https://tandrew468.xyz/](https://tandrew468.xyz/)
+- ✅ All of my projects are available at [https://tandrew468.xyz/](https://tandrew468.xyz/)
 
 - 💬 Ask me about **anything**
 
