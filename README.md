@@ -5,11 +5,7 @@
 
 - 👨‍💻 I’m currently working @ **Leidos**
 
-- ✅ All of my projects are available at [https://tandrew468.xyz/](https://tandrew468.xyz/)
-
 - 💬 Ask me about **anything**
-
-- 📫 How to reach me **tandrew468@gmail.com**
 
 - ⚡ Fun fact #1 Loves Drones
 
